@@ -1,0 +1,473 @@
+{
+    "quizzes": [
+      {
+        "id": 1,
+        "title": "Budgeting Quiz",
+        "questions": [
+          {
+            "text": "What is the primary purpose of creating a budget?",
+            "options": [
+              "Option A: To track your daily expenses",
+              "Option B: To limit your spending",
+              "Option C: To plan and manage your finances"
+            ],
+            "correctAnswerIndex": 2
+          },
+          {
+            "text": "Why is it essential to categorize expenses in a budget?",
+            "options": [
+              "Option A: It helps you hide your spending habits",
+              "Option B: It makes your budget look more organized",
+              "Option C: It allows you to see where your money is going"
+            ],
+            "correctAnswerIndex": 2
+          },
+          {
+            "text": "Which of the following is considered a variable expense?",
+            "options": [
+              "Option A: Rent or mortgage",
+              "Option B: Groceries",
+              "Option C: Car insurance"
+            ],
+            "correctAnswerIndex": 1
+          },
+          {
+            "text": "What is the recommended percentage of your income to allocate for savings in a budget?",
+            "options": [
+              "Option A: 5%",
+              "Option B: 20%",
+              "Option C: 50%"
+            ],
+            "correctAnswerIndex": 1
+          },
+          {
+            "text": "How often should you review and adjust your budget?",
+            "options": [
+              "Option A: Once a year",
+              "Option B: Never, once it's set, it's fixed",
+              "Option C: Regularly, such as monthly or quarterly"
+            ],
+            "correctAnswerIndex": 2
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Savings Quiz",
+        "questions": [
+          {
+            "text": "What is the primary goal of a savings account?",
+            "options": [
+              "Option A: To make your money grow quickly",
+              "Option B: To provide a safe place to store and grow your money",
+              "Option C: To invest in stocks and bonds"
+            ],
+            "correctAnswerIndex": 1
+          },
+          {
+            "text": "Which of the following is NOT a common short-term savings goal?",
+            "options": [
+              "Option A: Buying a new car",
+              "Option B: Going on a vacation",
+              "Option C: Saving for retirement"
+            ],
+            "correctAnswerIndex": 2
+          },
+          {
+            "text": "What is an emergency fund, and why is it important?",
+            "options": [
+              "Option A: A fund used for buying luxury items",
+              "Option B: A fund for unexpected expenses like medical bills or car repairs",
+              "Option C: A fund to invest in high-risk stocks"
+            ],
+            "correctAnswerIndex": 1
+          },
+          {
+            "text": "How can you make saving money a habit?",
+            "options": [
+              "Option A: Only save money when you have extra income",
+              "Option B: Set up automatic transfers to your savings account",
+              "Option C: Wait until you're older to start saving"
+            ],
+            "correctAnswerIndex": 1
+          },
+          {
+            "text": "What is compound interest, and how does it benefit your savings?",
+            "options": [
+              "Option A: Compound interest is a type of loan with high interest rates",
+              "Option B: Compound interest is the interest you earn on both your initial deposit and the interest it earns over time, helping your savings grow faster",
+              "Option C: Compound interest doesn't apply to savings accounts"
+            ],
+            "correctAnswerIndex": 1
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Debt Quiz",
+        "questions": [
+          {
+            "text": "What is the definition of debt?",
+            "options": [
+              "Option A: A financial tool to build wealth",
+              "Option B: Money you owe to someone else",
+              "Option C: Your total income"
+            ],
+            "correctAnswerIndex": 1
+          },
+          {
+            "text": "What is the difference between secured and unsecured debt?",
+            "options": [
+              "Option A: There is no difference",
+              "Option B: Secured debt is backed by collateral, while unsecured debt is not",
+              "Option C: Unsecured debt has lower interest rates"
+            ],
+            "correctAnswerIndex": 1
+          },
+          {
+            "text": "What is the minimum payment on a credit card?",
+            "options": [
+              "Option A: The entire outstanding balance",
+              "Option B: A small fixed amount determined by the credit card company",
+              "Option C: It varies depending on the cardholder's mood"
+            ],
+            "correctAnswerIndex": 1
+          },
+          {
+            "text": "How can you avoid falling into a cycle of debt?",
+            "options": [
+              "Option A: Max out your credit cards",
+              "Option B: Make only the minimum payments on your loans",
+              "Option C: Create a budget, spend within your means, and pay down debt aggressively"
+            ],
+            "correctAnswerIndex": 2
+          },
+          {
+            "text": "What is the importance of your credit score in managing debt?",
+            "options": [
+              "Option A: It doesn't matter; your credit score is unrelated to debt",
+              "Option B: A higher credit score allows you to borrow more money",
+              "Option C: A good credit score can help you qualify for lower interest rates on loans and credit cards"
+            ],
+            "correctAnswerIndex": 2
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Credit Quiz",
+        "questions": [
+          {
+            "text": "What is a credit score?",
+            "options": [
+              "Option A: A measure of your annual income",
+              "Option B: A numerical representation of your creditworthiness",
+              "Option C: The amount of debt you owe"
+            ],
+            "correctAnswerIndex": 1
+          },
+          {
+            "text": "How can you improve your credit score?",
+            "options": [
+              "Option A: By frequently closing old credit accounts",
+              "Option B: By paying bills on time and managing credit responsibly",
+              "Option C: By maxing out all your credit cards"
+            ],
+            "correctAnswerIndex": 1
+          },
+          {
+            "text": "What is the credit score range for an 'Excellent' credit score?",
+            "options": [
+              "Option A: 300-579",
+              "Option B: 580-669",
+              "Option C: 800-850"
+            ],
+            "correctAnswerIndex": 2
+          },
+          {
+            "text": "How do late payments affect your credit score?",
+            "options": [
+              "Option A: They have no impact on your credit score",
+              "Option B: They can significantly lower your credit score",
+              "Option C: They always improve your credit score"
+            ],
+            "correctAnswerIndex": 1
+          },
+          {
+            "text": "What is the importance of checking your credit report regularly?",
+            "options": [
+              "Option A: It doesn't matter; your credit report is irrelevant",
+              "Option B: To ensure there are no errors or fraudulent accounts, and to monitor your credit health",
+              "Option C: To increase your credit score"
+            ],
+            "correctAnswerIndex": 1
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Loans Quiz",
+        "questions": [
+          {
+            "text": "What is the main difference between a secured loan and an unsecured loan?",
+            "options": [
+              "Option A: The interest rate",
+              "Option B: Collateral – secured loans require collateral, while unsecured loans do not",
+              "Option C: The loan term"
+            ],
+            "correctAnswerIndex": 1
+          },
+          {
+            "text": "What is the purpose of a co-signer on a loan?",
+            "options": [
+              "Option A: To borrow more money",
+              "Option B: To share the responsibility of repaying the loan and provide additional assurance to the lender",
+              "Option C: To get a loan without interest"
+            ],
+            "correctAnswerIndex": 1
+          },
+          {
+            "text": "What is the grace period on a student loan?",
+            "options": [
+              "Option A: The time you have to pay back the loan",
+              "Option B: A period during which you can delay making loan payments, typically while in school or during a certain grace period after graduation",
+              "Option C: The interest rate on the loan"
+            ],
+            "correctAnswerIndex": 1
+          },
+          {
+            "text": "What is the significance of the Annual Percentage Rate (APR) on a loan?",
+            "options": [
+              "Option A: It determines the loan term",
+              "Option B: It represents the total cost of borrowing, including interest and fees, as a percentage",
+              "Option C: It determines your credit score"
+            ],
+            "correctAnswerIndex": 1
+          },
+          {
+            "text": "Why is it important to read the terms and conditions of a loan agreement thoroughly?",
+            "options": [
+              "Option A: To find loopholes for avoiding repayment",
+              "Option B: To understand the interest rate and fees associated with the loan, as well as any specific terms and conditions",
+              "Option C: To negotiate a lower interest rate"
+            ],
+            "correctAnswerIndex": 1
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Intro to Investing Quiz",
+        "questions": [
+          {
+            "text": "What is the stock market?",
+            "options": [
+              "Option A: A place to buy and sell groceries",
+              "Option B: A platform for trading shares of publicly traded companies",
+              "Option C: A type of bank"
+            ],
+            "correctAnswerIndex": 1
+          },
+          {
+            "text": "How are stock prices determined?",
+            "options": [
+              "Option A: Stock prices are fixed and never change",
+              "Option B: Stock prices are determined by the government",
+              "Option C: Stock prices are influenced by supply and demand"
+            ],
+            "correctAnswerIndex": 2
+          },
+          {
+            "text": "What is a stock index, and why is it used?",
+            "options": [
+              "Option A: A list of the most popular stocks",
+              "Option B: A ranking of stock prices from highest to lowest",
+              "Option C: A measurement of the performance of a group of stocks, used to assess the overall market's health"
+            ],
+            "correctAnswerIndex": 2
+          },
+          {
+            "text": "What is one potential benefit of investing in the stock market?",
+            "options": [
+              "Option A: Guaranteed returns on investment",
+              "Option B: Ownership in leading companies that drive innovation and economic growth",
+              "Option C: Lower risk compared to other forms of investment"
+            ],
+            "correctAnswerIndex": 1
+          },
+          {
+            "text": "What is the first step to start investing in the stock market?",
+            "options": [
+              "Option A: Open a savings account",
+              "Option B: Educate yourself about the basics of stock market investing",
+              "Option C: Hire a financial advisor"
+            ],
+            "correctAnswerIndex": 1
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "title": "Stock Market Quiz",
+        "questions": [
+          {
+            "text": "What is the primary purpose of the stock market?",
+            "options": [
+              "Option A: To buy and sell real estate",
+              "Option B: To trade agricultural products",
+              "Option C: To allow individuals and institutions to buy and sell shares of publicly traded companies"
+            ],
+            "correctAnswerIndex": 2
+          },
+          {
+            "text": "How are stock prices affected by supply and demand?",
+            "options": [
+              "Option A: Stock prices are not influenced by supply and demand",
+              "Option B: If more people want to buy a stock (demand), its price tends to go down",
+              "Option C: If more people want to buy a stock (demand), its price tends to go up"
+            ],
+            "correctAnswerIndex": 2
+          },
+          {
+            "text": "What do stock indexes like the S&P 500 or Dow Jones Industrial Average track?",
+            "options": [
+              "Option A: The performance of a single stock",
+              "Option B: The performance of the entire global stock market",
+              "Option C: The performance of a select group of stocks, providing an overview of how the market is doing"
+            ],
+            "correctAnswerIndex": 2
+          },
+          {
+            "text": "What is one potential benefit of investing in the stock market?",
+            "options": [
+              "Option A: Guaranteed returns on investment",
+              "Option B: Ownership in leading companies that drive innovation and economic growth",
+              "Option C: Diversification of investments"
+            ],
+            "correctAnswerIndex": 1
+          },
+          {
+            "text": "Why is it essential to stay informed when investing in the stock market?",
+            "options": [
+              "Option A: It's not essential; you can invest blindly",
+              "Option B: To impress your friends with your knowledge",
+              "Option C: To make informed decisions and stay updated on the performance of your investments"
+            ],
+            "correctAnswerIndex": 2
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Risk Management Quiz",
+        "questions": [
+          {
+            "text": "What is investment risk?",
+            "options": [
+              "Option A: The guaranteed return on investment",
+              "Option B: The potential for losing some or all of your invested capital",
+              "Option C: The length of time an investment is held"
+            ],
+            "correctAnswerIndex": 1
+          },
+          {
+            "text": "Which of the following is NOT a common type of investment risk?",
+            "options": [
+              "Option A: Market Risk",
+              "Option B: Liquidity Risk",
+              "Option C: Time Risk"
+            ],
+            "correctAnswerIndex": 2
+          },
+          {
+            "text": "What is the primary purpose of diversification in managing investment risk?",
+            "options": [
+              "Option A: To maximize risk by concentrating investments in one asset",
+              "Option B: To spread risk by investing in a variety of assets",
+              "Option C: To minimize returns by avoiding investments altogether"
+            ],
+            "correctAnswerIndex": 1
+          },
+          {
+            "text": "How can understanding your risk tolerance help with investment decisions?",
+            "options": [
+              "Option A: It has no impact on investment decisions",
+              "Option B: It helps you select investments that align with your comfort level",
+              "Option C: It increases your willingness to take on excessive risk"
+            ],
+            "correctAnswerIndex": 1
+          },
+          {
+            "text": "What is an emergency fund, and why is it important in risk management?",
+            "options": [
+              "Option A: A fund used to invest in high-risk assets",
+              "Option B: A fund designed to cover unexpected expenses and protect your investments from market fluctuations",
+              "Option C: A fund used to pay off debt quickly"
+            ],
+            "correctAnswerIndex": 1
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "title": "Investment Strategy Quiz",
+        "questions": [
+          {
+            "text": "What is the buy and hold investment strategy?",
+            "options": [
+              "Option A: Frequent trading of stocks",
+              "Option B: Buying and holding onto investments for an extended period",
+              "Option C: Only investing in bonds"
+            ],
+            "correctAnswerIndex": 1
+          },
+          {
+            "text": "What is the primary advantage of dollar-cost averaging (DCA)?",
+            "options": [
+              "Option A: It guarantees the highest returns",
+              "Option B: It reduces the impact of market volatility by investing a fixed amount at regular intervals",
+              "Option C: It allows you to time the market effectively"
+            ],
+            "correctAnswerIndex": 1
+          },
+          {
+            "text": "What is value investing?",
+            "options": [
+              "Option A: Investing in assets with the lowest value",
+              "Option B: Identifying undervalued assets and expecting their value to be recognized over time",
+              "Option C: Investing only in growth stocks"
+            ],
+            "correctAnswerIndex": 1
+          },
+          {
+            "text": "What is growth investing focused on?",
+            "options": [
+              "Option A: Low-risk investments",
+              "Option B: Companies with a history of slow revenue growth",
+              "Option C: Companies with high growth potential and strong revenue and earnings growth"
+            ],
+            "correctAnswerIndex": 2
+          },
+          {
+            "text": "What is the primary goal of income investing?",
+            "options": [
+              "Option A: Achieving rapid capital appreciation",
+              "Option B: Generating regular income through investments like dividends and interest",
+              "Option C: Speculating on market trends"
+            ],
+            "correctAnswerIndex": 1
+          },
+          {
+            "text": "What do index funds aim to do?",
+            "options": [
+              "Option A: Beat the market's performance",
+              "Option B: Provide exposure to a wide range of assets and match the overall market's returns",
+              "Option C: Guarantee high returns"
+            ],
+            "correctAnswerIndex": 1
+          }
+        ]
+      }
+    ]
+  }
+  

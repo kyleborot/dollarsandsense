@@ -1,0 +1,28 @@
+/* Reset margin on body */
+html, body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .App {
+    display: flex;
+    width: 200%;
+    transition: transform 0.5s ease-in-out;
+  }
+  
+  
+  .page {
+    flex: 1;
+    min-width: 50%;
+    overflow: hidden;
+  }
+  
+  .slide-entering,
+  .slide-exiting {
+    transform: translateX(0%);
+  }
+  
+  .slide-entered,
+  .slide-exited {
+    transform: translateX(-50%);
+  }
